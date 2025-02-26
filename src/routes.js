@@ -52,7 +52,7 @@ const routes = [
   {
     type: "collapse",
     name: "Dashboard",
-    key: "dashboard",
+    key: undefined,
     icon: <Icon fontSize="small">dashboard</Icon>,
     route: "/dashboard",
     component: <Dashboard />,
